@@ -28,3 +28,14 @@ All design credits belong to Netflix.
 
 ## 🌐 Live Demo
 https://harsh-berwal.github.io/netflix-clone-html-css/
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/hero-home.png)
+
+### Features Section
+![Features](screenshots/features.png)
+
+### Footer
+![Footer](screenshots/footer.png)
