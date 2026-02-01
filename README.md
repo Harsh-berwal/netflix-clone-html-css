@@ -6,7 +6,7 @@ and responsive UI development.
 
 ## 🛠 Tech Stack
 - HTML5
-- CSS3
+- CSS
 
 ## 📚 What I Learned
 - Structuring web pages using semantic HTML
